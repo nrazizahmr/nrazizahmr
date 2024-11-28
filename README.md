@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Nur Azizah Munir**.\
+Perkenalkan nama saya **Nur Azizah Munir**.
 
 Saya seorang **Freshgraduate** di [Universitas Islam Negeri Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/)
 
