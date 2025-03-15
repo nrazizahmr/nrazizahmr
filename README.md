@@ -1,16 +1,17 @@
-# Halo semua! 
+# Halo, semua! 👋  
 
-Perkenalkan nama saya **Nur Azizah Munir**.
+Saya **Nur Azizah Munir**, seorang **Fresh Graduate** dari [Universitas Islam Negeri Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/), dengan latar belakang di bidang **Informatika**.  
 
-Saya seorang **Freshgraduate** dari [Universitas Islam Negeri Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/)
+Saya memiliki minat besar dalam **Data Analysis dan AI Engineering**, serta telah mengembangkan keterampilan di bidang **Cloud Computing dan IT Support**. Saya juga memiliki [Sertifikat Tensorflow Google Developer](https://www.credential.net/34bb6952-4651-4127-bde2-b3b8e31933b3#acc.3qKlm5cv) sebagai bukti kompetensi saya.  
 
-Saya memiliki kemampuan di bidang IT Support dengan dibekali [Sertifikat IT Support Google.pdf](https://github.com/nrazizahmr/nrazizahmr/files/10768574/Sertifikat.IT.Support.Google.pdf)
+Saat ini, saya aktif mengembangkan keterampilan di bidang **Data Science dan AI**, serta berusaha memberikan dampak positif melalui teknologi.  
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nur-azizah-munir/)ku yaa
+📫 **Hubungi saya di:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nur-azizah-munir/)  
+- 📂 [GitHub](https://github.com/nrazizahmr)  
 
 <p align="left">
 <a href="https://github.com/nrazizahmr">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nrazizahmr&theme=algolia"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrazizahmr&theme=algolia"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrazizahmr&theme=algolia"/>
 </a>
