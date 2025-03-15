@@ -1,12 +1,12 @@
-# Halo, semua! 👋  
+# Hello, everyone! 👋  
 
-Saya **Nur Azizah Munir**, seorang **Fresh Graduate** dari [Universitas Islam Negeri Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/), dengan latar belakang di bidang **Teknik Informatika**.  
+I am **Nur Azizah Munir**, a **Fresh Graduate** from [Universitas Islam Negeri Maulana Malik Ibrahim Malang](https://uin-malang.ac.id/), with a background in **Informatics Engineering**.  
 
-Saya memiliki minat besar dalam **Data Science dan AI Engineering**, serta telah mengembangkan keterampilan di bidang **Cloud Computing**. Saya juga memiliki [Sertifikat Tensorflow Google Developer](https://www.credential.net/34bb6952-4651-4127-bde2-b3b8e31933b3#acc.3qKlm5cv) sebagai bukti kompetensi saya.  
+I have a strong passion for **Data Science and AI Engineering**, and I have developed skills in **Cloud Computing**. I also hold a [Certificate Tensorflow Google Developer](https://www.credential.net/34bb6952-4651-4127-bde2-b3b8e31933b3#acc.3qKlm5cv) as proof of my expertise.
 
-Saat ini, saya aktif mengembangkan keterampilan di bidang **Data Science dan AI**, serta berusaha memberikan dampak positif melalui teknologi.  
+Currently, I am actively enhancing my skills in **Data Science and AI**, striving to make a positive impact through technology.  
 
-📫 **Hubungi saya di:**  
+📫 **Get in touch with me:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nur-azizah-munir/)  
 - 📂 [GitHub](https://github.com/nrazizahmr)  
 
